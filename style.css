@@ -1,0 +1,108 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+
+#maindiv1{
+  background-color: #000000;
+  color: #FFFAF0
+}
+
+#Captiondiv1 p,  #PMidLeft p, #PBottomLeft p {
+  display:flex;
+  justify-content: flex-start;
+  font-family: 'Verdana', sans-serif;
+  font-size: 12px;
+  color: white;
+  line-height: .5px;
+}
+
+
+#PCenter p, #PBottomCenter p{
+  display:flex;
+  justify-content: center;
+  font-family: 'Verdana', sans-serif;
+  font-size: 12px;
+  color: white;
+  line-height: .5px;
+}
+
+
+#PMidRight p{
+  display:flex;
+  justify-content: flex-end;
+  font-family: 'Verdana', sans-serif;
+  font-size: 12px;
+  color: white;
+  line-height: .5px;
+  margin-left: 800px;
+}
+
+#som h1{
+  display:flex;
+  justify-content: center;
+  font-size: 256px;
+  color: white;
+  line-height: .5px;
+  font-family: 'Verdana', sans-serif;
+
+}
+
+
+#e h1{
+  display:flex;
+  flex-direction: flex-start;
+  font-size: 256px;
+  color: white;
+  line-height: .5px;
+  font-family: 'Verdana', sans-serif;
+
+}
+
+#th h1{
+  display:flex;
+  flex-direction: flex-end;
+  font-size: 256px;
+  color: white;
+  line-height: .5px;
+  margin-left: 800px;
+  font-family: 'Verdana', sans-serif;
+
+
+}
+
+#ing h1, #ing2 h1{
+  display:flex;
+  flex-direction: flex-end;
+  font-size: 256px;
+  color: white;
+  line-height: .5px;
+  margin-left: 800px;
+  font-family: 'Verdana', sans-serif;
+
+
+}
+
+
+#lov h1{
+  display:flex;
+  flex-direction: flex-start;
+  font-size: 256px;
+  color: white;
+  line-height: .5px;
+  font-family: 'Verdana', sans-serif;
+
+}
+
+#subdiv2 h1{
+  display:flex;
+  flex-direction: flex-end;
+  font-size: 256px;
+  color: white;
+  line-height: .5px;
+  margin-left: 800px;
+  font-family: 'Verdana', sans-serif;
+
+}
